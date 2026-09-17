@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROMA\\Desktop\\Student\\PR2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94710228-FD9B-4B27-B18C-124D0A59B5D6}|PR2.vcxproj|C:\\Users\\ROMA\\Desktop\\Student\\PR2\\PR2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94710228-FD9B-4B27-B18C-124D0A59B5D6}|PR2.vcxproj|solutionrelative:PR2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR2.cpp",
+              "DocumentMoniker": "C:\\Users\\ROMA\\Desktop\\Student\\PR2\\PR2.cpp",
+              "RelativeDocumentMoniker": "PR2.cpp",
+              "ToolTip": "C:\\Users\\ROMA\\Desktop\\Student\\PR2\\PR2.cpp",
+              "RelativeToolTip": "PR2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-17T19:12:37.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
